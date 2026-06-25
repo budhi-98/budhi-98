@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Budhi Gurung
-https://chatgpt.com/s/m_6a3d0e51b30081919d378ccf6be4644c
+
 
 ## 💫 About Me
 
