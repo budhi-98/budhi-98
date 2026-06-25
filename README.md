@@ -1,12 +1,13 @@
-# Hi there 👋, I'm Budhi Man
+# Hi there 👋, I'm Budhi Gurung
 
 ## 💫 About Me
 
 - 🌍 From Bhutan
-- 💻 Software Developer
-- 🌱 Currently learning Angular, TypeScript, Java & Spring Boot
-- 🚀 Building web applications
-- 🎯 Goal: Become a Full Stack Developer
+- 💻 Software Developer | Data Analysis
+- 💼 Open to: Remote collaboration opportunities
+- 📧 Contact: budhimangurung926@gmail.com
+- 🌱 Currently learning Angular, TypeScript, Java & Spring Boot, Python, Mysql, Postgressql
+- 🎯 Goal: Becoming a fully on-site/remote Software Engineer
 
 ## 🛠️ Tech Stack
 
